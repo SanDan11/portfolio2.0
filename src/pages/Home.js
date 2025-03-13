@@ -10,8 +10,8 @@ function Home() {
                 <p>A passionate frontend developer</p>
             </div>
 
-            <div>
-                
+            <div className="Moon-Container">
+                <div className="eclipse-1"></div>
             </div>
 
         </div>
