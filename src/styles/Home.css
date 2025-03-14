@@ -5,7 +5,6 @@ body, html {
 
 body {
   font-family: "Ubuntu", sans-serif;
-  background-color: black;
 }
 
 h1 {
@@ -24,7 +23,8 @@ p {
 .small-about {
     text-align: center;
     padding-top: 25px;
-    padding-right: 250px;
+    padding-right: 10px;
+    font-size: 25px;
 }
 
 .Moon-Container {
@@ -35,11 +35,11 @@ p {
 
 .eclipse-1 {
     background-color: grey;
-    margin-top: -200px;
-    width: 500px;
-    height: 500px;
-    border-radius: 50%;
+    margin-top: -400px;
+    width: 400px;
+    height: 200px;
     position: absolute;
     z-index: -2;
+    border: 10px black solid;
     
 }
