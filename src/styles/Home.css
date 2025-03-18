@@ -1,8 +1,6 @@
-body, html {
-    margin: 0;
-    height: 100%;
-}
-
 body {
-  font-family: "Ubuntu", sans-serif;
+  height: 100vh;
+  margin: 0;
+  overflow-y: auto;
+  font-family: 'Tektur', serif;
 }

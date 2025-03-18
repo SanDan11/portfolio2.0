@@ -1,8 +1,9 @@
 .nav {
-
   display: flex;
   justify-content: flex-end;
-  padding: 75px;
+  padding: 35px;
+  background-color: darkblue;
+  border-bottom: 4px solid black;
 }
 
 .nav-list {
@@ -15,8 +16,11 @@
 }
 
 .nav-item a {
+  color: white;
+  font-size: 25px;
   text-decoration: none;
-  font-size: 20px;
+  font-family: 'Tektur', serif;
+
 }
 
 .nav-item a:hover {
