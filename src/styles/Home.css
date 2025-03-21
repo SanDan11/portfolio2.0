@@ -2,5 +2,28 @@ body {
   height: 100vh;
   margin: 0;
   overflow-y: auto;
-  font-family: 'Tektur', serif;
+  font-family: "Tektur", serif;
+}
+
+.name-logo{
+  text-align: center;
+  font-size: 45px;
+}
+
+.left-container {
+  border: 1px solid black;
+  position: relative;
+  text-align: right;
+  margin: 20px;
+  
+}
+
+.center-container {
+  border: 1px solid black;
+  text-align: center;
+}
+
+.right-container {
+  border: 1px solid black;
+  
 }
